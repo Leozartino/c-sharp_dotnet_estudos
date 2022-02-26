@@ -23,7 +23,7 @@ Já o .NET core é cross-plataform, isso significa que ele pode "rodar" em vári
   
   | ASP.NET Core  | ASP.NET 4.X |
   |----------|:-------------:|
-  | Razor Pagesé a abordagem recomendada para criar uma interface do usuário da Web a partir do ASP.NET Core 2. x. |  Usar Web Forms, , MVC, API da web, webhooksou páginas da web |
+  | Razor Pagesé a abordagem recomendada para criar uma interface do usuário da Web a partir do ASP.NET Core 2. x. |  Usar Web Forms, MVC, API da web, webhooksou páginas da web |
   | Várias versões por computador |   Uma versão por computador   | 
   | Desenvolva com o Visual Studio, Visual Studio para Mac ou Visual Studio Code usando C# ou F# | Desenvolva com Visual Studio usando C#, VB ou F # |
   | Desempenho superior ao do ASP.NET 4.x | Bom desempenho |  
