@@ -14,7 +14,7 @@ No artigo: **Quais são as diferenças entre .NET Framework e .NET core** ([link
 Já o .NET core é cross-plataform, isso significa que ele pode "rodar" em várias plataformas, como Linux based, Windows, MacOS e no próprio Windows, sua criação foi em 2016 e visou também resolver problemas que o .NET Framework tinha com relação a encriptação SHA-1.
 
 
-## .NET vs .NET Framework para aplicativos de servidor
+## .NET Core vs .NET Framework para aplicativos de servidor
 
 Existem algumas diferenças mais na aplicação e contexto de quando usar um ou outro, mas em termos de código não há tantas mudanças. Ambas suportam construir aplicações do lado do servidor, porém as temos de enteder algums diferenças em quando podemos utilizar cada um:
 
