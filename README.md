@@ -13,6 +13,12 @@ No artigo: **Quais são as diferenças entre .NET Framework e .NET core** ([link
 
 Já o .NET core é cross-plataform, isso significa que ele pode "rodar" em várias plataformas, como Linux based, Windows, MacOS e no próprio Windows, sua criação foi em 2016 e visou também resolver problemas que o .NET Framework tinha com relação a encriptação SHA-1.
 
+  ### Contexto Histórico
+  - ASP Clássico lançado em 1996
+  - ASP.NET WebForms lançado em 2002 junto com .NET Framework
+  - ASP.NET MVC Alternativa ao WebForms em 2009, chegou na versão 5 em 2013
+  - ASP.Core anunciado em 2014 foi disponibilizado na versão 1.0 no final de 2016 e na versão 2.0 em 2017
+
 
 ## .NET Core vs .NET Framework para aplicativos de servidor
 
