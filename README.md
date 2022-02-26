@@ -15,9 +15,19 @@ Já o .NET core é cross-plataform, isso significa que ele pode "rodar" em vári
 
   ### Contexto Histórico
   - ASP Clássico lançado em 1996
-  - ASP.NET WebForms lançado em 2002 junto com .NET Framework
-  - ASP.NET MVC Alternativa ao WebForms em 2009, chegou na versão 5 em 2013
-  - ASP.Core anunciado em 2014 foi disponibilizado na versão 1.0 no final de 2016 e na versão 2.0 em 2017
+  - ASP.NET WebForms lançado em 2002 junto com .NET Framework (Somente Windows)
+  - ASP.NET MVC Alternativa ao WebForms em 2009, chegou na versão 5 em 2013 (Somente Windows)
+  - ASP.Core anunciado em 2014 foi disponibilizado na versão 1.0 no final de 2016 e na versão 2.0 em 2017 (Multiplataforma, Software Livre e Open-Source)
+  
+  ### Uso do ASP.NET 4.X e ASP.NET Core
+  
+  | ASP.NET Core  | ASP.NET 4.X |
+  |----------|:-------------:|
+  | Razor Pagesé a abordagem recomendada para criar uma interface do usuário da Web a partir do ASP.NET Core 2. x. |  Usar Web Forms, , MVC, API da web, webhooksou páginas da web |
+  | Várias versões por computador |   Uma versão por computador   | 
+  | Desenvolva com o Visual Studio, Visual Studio para Mac ou Visual Studio Code usando C# ou F# | Desenvolva com Visual Studio usando C#, VB ou F # |
+  | Desempenho superior ao do ASP.NET 4.x | Bom desempenho |  
+  | Usar o runtime do .NET Core | Use o runtime do .NET Framework |
 
 
 ## .NET Core vs .NET Framework para aplicativos de servidor
