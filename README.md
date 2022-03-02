@@ -4,6 +4,11 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
 
+## .NET Standart
+
+É uma especificação do .NET para os frameworks que podem rodar C# ou F#, é uma coleção de documentos que visam padronizar os frameworks derivados com o objetivo de deixar o ecossistema .NET uniforme, é como ele fosse uma interface e o .NET core e .NET framework são as classes (implementações)
+
+
 
 ## O que é o .NET Framework?
 
